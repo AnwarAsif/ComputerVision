@@ -14,4 +14,14 @@ ComputerVision
     2.4 compute LoG
     2.5 denoise 
     2.6 Gauss 1D/2D     
-3. 
+3. Harris Corner detector 
+    3.1 Harris corner detector 
+    3.2 Harris multi image detector 
+    3.2 Lucas kanade 
+4. Key Point matching
+    4.1 key point matching 
+    4.2 RANSAC
+    4.3 stitch
+5. CV using CNN and KNN
+    5.1 KNN 
+    5.2 CNN over CIFAR10 
